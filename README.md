@@ -1,15 +1,15 @@
 # Triangle Finder
 
-#### _This is a website that uses methods for initializing new triangles and determining what triangle type. 04/25/2016_
+#### _This is a website that uses methods for calculating shipping cost. 04/25/2016_
 
 #### By _**Nadiya Yeroshkina and Inthrayuth Mahaphol**_
 
-### [Click here for Nadiya's github] (https://github.com/NadinYrosh/Triangle-Java.git)
-### [Click here for Inthra's github] (https://github.com/inthra/w2Mon-Triangles.git)
+## [Click here for Nadiya's github] (https://github.com/NadinYrosh/parcel-cost-calculator.git)
+## [Click here for Inthra's github] (https://github.com/inthra/w2Mon-Parcels.git)
 
 ## Description
 
-This is a website that uses methods for initializing new triangles and determining what triangle type.
+This is a website that uses methods for calculating shipping cost.
 
 ## Setup/Installation Requirements
 
