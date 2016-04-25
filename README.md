@@ -24,7 +24,7 @@ _Please let me know if you have questions._
 
 ## Technologies Used
 
-_HTMS, Spark, Java, JUnit, Bootstarp, FluentLenium, Velocity._
+_HTML, Spark, Java, JUnit, Bootstarp, FluentLenium, Velocity._
 
 ### License
 
